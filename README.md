@@ -33,12 +33,15 @@ Verification uses a self-contained testbench (`tb_apb`) that behaviorally models
 ## 📊 Simulation Waveforms & Schematic
 
 ### APB4 Transfer Waveform
+<img width="862" height="642" alt="image" src="https://github.com/user-attachments/assets/1431530a-60bc-4518-903f-a57d2e43e3e4" />
+### Synthesis and RTL Schematic:
+### Synthesis schematic:
+<img width="1042" height="521" alt="image" src="https://github.com/user-attachments/assets/0105f137-d55b-434c-a4c8-204e21732aeb" />
 
-### Synthesis and RTL Schematic
 ### RTL:
 <img width="1037" height="697" alt="image" src="https://github.com/user-attachments/assets/199dae0d-db5b-4699-9822-b0e812cd4172" />
-### Synthesis schematic:
-<img width="862" height="642" alt="image" src="https://github.com/user-attachments/assets/1431530a-60bc-4518-903f-a57d2e43e3e4" />
+
+
 
 
 
