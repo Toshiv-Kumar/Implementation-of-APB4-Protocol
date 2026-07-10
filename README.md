@@ -33,10 +33,14 @@ Verification uses a self-contained testbench (`tb_apb`) that behaviorally models
 ## 📊 Simulation Waveforms & Schematic
 
 ### APB4 Transfer Waveform
-*(Insert your simulation waveform screenshot here)*
 
-### Synthesis Schematic
-*(Insert your synthesis schematic screenshot here)*
+### Synthesis and RTL Schematic
+### RTL:
+<img width="1037" height="697" alt="image" src="https://github.com/user-attachments/assets/199dae0d-db5b-4699-9822-b0e812cd4172" />
+### Synthesis schematic:
+<img width="862" height="642" alt="image" src="https://github.com/user-attachments/assets/1431530a-60bc-4518-903f-a57d2e43e3e4" />
+
+
 
 ---
 
@@ -73,12 +77,14 @@ Verification uses a self-contained testbench (`tb_apb`) that behaviorally models
 
 ## 📚 References
 
-*(Add your references here — e.g., ARM AMBA APB Protocol Specification, tutorials, videos, etc.)*
+- AMBA® APB Protocol Specification
+- APB PROTOCOL EXPLAINED by VLSI FOR ALL: https://youtu.be/ZD2NE2VMhq0
+- AMBA APB PROTOCOL P2 ALL ABOUT VLSI: https://youtube.com/playlist?list=PLqPfWwayuBvPpjwnJsJ7qSQAXh7NQFMzO&si=6t9tNzQBF5_4gVjT
 
 ---
 
-## 📖 Theory Overview / Challenges
+## 📖 Pending:
+Learn AMBA architecture basics.
 
-*(Write your own conceptual/theory section here, similar to the "Theory Overview" section in your other READMEs — e.g., APB transfer phases, PSELx/PENABLE handshaking, PPROT security attributes, wait-state insertion, etc.)*
 
 ---
